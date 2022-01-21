@@ -1,0 +1,16 @@
+- layout: left
+  name: University of Washington
+  dates: Jun 2021 - Present
+  qualification: Master's in Business Analytics
+  quote: >
+    Currently pursuing Masters in Business Analytics
+  description: | # this will include new lines to allow paragraphs
+    Please See my projects section for the projects I have worked on
+- layout: left
+  name: Raisoni College, Nagpur University
+  dates: May 2010 - April 2014
+  qualification: Bachelors in Computer Science Engineering
+  quote: >
+    Pursued bachelors in Computer Science Engineering
+  description:
+    To Be Updated
