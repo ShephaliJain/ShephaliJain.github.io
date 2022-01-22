@@ -1,0 +1,45 @@
+- layout: left
+  company: Sound Credit Union
+  link: https://www.soundcu.com/
+  job_title: Data Analyst Intern
+  dates: Jun 2021 – Present
+  quote: >
+   Data Analyst Intern
+  description: | # this will include new lines to allow paragraphs
+    - Developing business architecture using requirements such as scope, processes, and risks.
+    - Writing SQL queries and analyzing the data using Tableau and Power BI
+    - Using Python for data pre-processing and text mining to analyze survey data
+    
+- layout: left
+  company: Accenture Solutions
+  job_title: Senior Application Development Analyst
+  dates: Oct 2018 – Dec 2019
+  link: https://www.accenture.com/
+  quote: >
+   Business Analyst
+  description: | # this will include new lines to allow paragraphs
+    - Wrote SQL queries to understand and interpret data and to draw conclusions for managerial action and strategy.
+    - Developed SQL code and procedures to analyze the impacted users using tools like HANA DB SQL, MS SQL Server etc.
+    - Successfully interpreted data in order to draw conclusions for business stakeholders and end users.
+    - Working with Tableau to create dashboards, stories to provide clear and insightful to the clients.
+    - Used advanced Microsoft Excel to create pivot tables and pivot reporting, as well as use VLOOKUP function
+    - Analyzing data by extracting, cleaning and manipulating it from multiple source systems.
+    - Used statistical techniques to validate data and interpretations.
+    - Performed process chain automation to fetch the logistical transactions every 2 hours, resulted in manual processing time reduction by 50%.
+    
+- layout: left
+  company: DXC Technology Ltd.
+  jobs: 
+    - title: Business Analyst
+      dates: Jun 2015 – Sept 2018
+  quote: >
+   Business Analyst
+  description: | # this will include new lines to allow paragraphs
+    - Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases.
+    - Built interactive reports, complex dashboards for clients, writing formulas for created KPIs in Tableau and Power BI.
+    - Created customer dashboard to analyze customer trends and migration for strategic decision making
+    - Gathered client requirement and created ad-hock reports using data mining methods to represent insights gathered from data.
+    - Analyze customer requirement and strategize operational program to develop, test and deploy the change requests in production systems for Go-Live.
+    - Worked on forecasting and integrated planning portals to improve the business reports for end-users.
+      Accomplishments: Client Appreciation
+    - Automated process chains logistics to derive complex client month end reports, resulted in resolution time reduction of high priority tickets coming from key users by 80%.   
